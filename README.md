@@ -11,7 +11,6 @@ I am a Security researcher + Pentester. I have a passion for learning and consta
 
 In my spare time I like to:  
 -Workout :muscle:  
--Read 📖
 -Learn languages: I currently speak 🏴󠁧󠁢󠁥󠁮󠁧󠁿: , :fr:, :es:
 
 
