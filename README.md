@@ -2,7 +2,7 @@
 
 ## ✨ About Me ✨
 <p align="left">
-I am a dedicated Security Researcher and Pentester with a relentless passion for continuous learning and self-improvement. I thrive on tackling complex security challenges and am always eager to expand my knowledge and skill set. My mission is to contribute to the security community by developing and releasing innovative tools that help enhance cybersecurity measures.
+I am a dedicated Security Researcher and Pentester with a relentless passion for learning and self-improvement.
 </p>
 
 ## 📫 Hobbies
