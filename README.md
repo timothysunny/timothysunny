@@ -12,8 +12,6 @@ In my spare time, I enjoy:
 - Reading 📚
 - Writing ✍️
 - Exploring new technologies 🛠️
-- Playing chess ♟️
-- Traveling and experiencing new cultures 🌍
 
 ## 📬 Contact Me
 <p align="left">
