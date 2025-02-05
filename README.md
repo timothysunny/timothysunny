@@ -27,6 +27,7 @@ In my spare time, I enjoy:
 - Reading 📚
 - Writing ✍️
 - Exploring new technologies 🛠️
+- Creating Art
 
 ## 📧 Let's Connect! 📧
 
@@ -39,9 +40,3 @@ In my spare time, I enjoy:
   </a>
 </p>
 
-## 📊 Coding Streak 📊
-
-<!-- WakaTime Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=timothysunny&theme=dark&hide_border=true" alt="Coding Streak" />
-</p>
