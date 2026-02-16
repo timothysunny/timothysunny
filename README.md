@@ -1,10 +1,8 @@
-### Hey, I'm Timothy! 👋
-
+### Hey, I'm Timothy! 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=6E63DD&width=435&lines=Security+Researcher+%26+Pentester;Passionate+Learner;Always+Exploring..." alt="Typing SVG" />
 </p>
 
-## ✨ About Me ✨
 I am a dedicated Security Researcher and Pentester with a relentless passion for learning and self-improvement. 
 
 ## 🔭 Languages, Frameworks, and Tools
@@ -24,11 +22,10 @@ I am a dedicated Security Researcher and Pentester with a relentless passion for
 
 ## 📫 Hobbies
 In my spare time, I enjoy:
-- Working out 💪
+- Working out 
 - Learning languages: I currently speak English 🇬🇧, French 🇫🇷, and German 🇩🇪
-- Reading 📚
-- Writing ✍️
-- Exploring new technologies 🛠️
+- Reading 
+- Writing 
 - Creating Art
 
 ## 📧 Let's Connect! 📧
