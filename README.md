@@ -1,9 +1,8 @@
-### Hey, I'm Timothy! 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=6E63DD&width=435&lines=Security+Researcher+%26+Pentester;Passionate+Learner;Always+Exploring..." alt="Typing SVG" />
-</p>
+# Timothy Omobude
 
-I am a dedicated Security Researcher and Pentester with a relentless passion for learning and self-improvement. 
+Application Security Engineer | Security Researcher | Full-Stack Developer
+
+I specialize in application security, secure code review, web application testing, API security, and cloud-native security.
 
 ## 🔭 Languages, Frameworks, and Tools
 
@@ -20,18 +19,19 @@ I am a dedicated Security Researcher and Pentester with a relentless passion for
 </p>
 
 
-## 📫 Hobbies
-In my spare time, I enjoy:
-- Working out 
-- Learning languages: I currently speak English 🇬🇧, French 🇫🇷, and German 🇩🇪
-- Reading 
-- Writing 
-- Creating Art
+## Highlights
+
+- 80+ validated vulnerability disclosures across European SaaS platforms
+- Jobiri Security Hall of Fame
+- Full-stack development experience with security-focused engineering
+- Experience with Kubernetes, Docker, AWS, and CI/CD security
+- Active bug bounty hunter and security researcher
+
 
 ## 📧 Let's Connect! 📧
 
 <p align="left">
-  <a href="mailto:timothyomo60@gmail.com">
+  <a href="mailto:timothy@omobude.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/timothyomo">
